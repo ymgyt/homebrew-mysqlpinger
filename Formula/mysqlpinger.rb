@@ -1,4 +1,4 @@
-class MySQLPinger < Formula
+class Mysqlpinger < Formula
   desc "cli mysql utility written in Rust"
   homepage "https://github.com/ymgyt/mysqlpinger"
   url "https://github.com/ymgyt/mysqlpinger/releases/download/v0.3.0/mysqlpinger-0.3.0-x86_64-apple-darwin.tar.gz"
